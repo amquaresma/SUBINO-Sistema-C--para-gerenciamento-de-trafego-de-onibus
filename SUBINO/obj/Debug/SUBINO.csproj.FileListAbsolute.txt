@@ -1,0 +1,72 @@
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.csprojResolveAssemblyReference.cache
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.MainForm.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.csproj.GenerateResource.Cache
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\bin\Debug\SUBINO.exe.config
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\bin\Debug\SUBINO.exe
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\bin\Debug\SUBINO.pdb
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.exe
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.pdb
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form1.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form2.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form3.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form4.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form5.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form6.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form7.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form8.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form9.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form10.resources
+C:\Users\mathq\Documents\SharpDevelop Projects\SUBINO\SUBINO\obj\Debug\SUBINO.Form11.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.csproj.AssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.exe
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form1.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form10.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form11.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form2.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form3.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form4.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form5.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form6.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form7.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form8.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.Form9.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.MainForm.resources
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.csproj.GenerateResource.cache
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\SUBINO.exe.config
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\SUBINO.exe
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\SUBINO.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\Google.Protobuf.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\MySql.Data.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Buffers.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.IO.Pipelines.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Memory.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\ZstdSharp.dll
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\Google.Protobuf.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\Google.Protobuf.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\MySql.Data.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Buffers.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.IO.Pipelines.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Memory.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\henri\OneDrive\Área de Trabalho\subino\SUBINO\SUBINO\obj\Debug\SUBINO.csproj.Up2Date
