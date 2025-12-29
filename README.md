@@ -160,8 +160,5 @@ Projeto desenvolvido para fins educacionais e de portfólio.
   
   **Sistema desenvolvido para demonstrar habilidades em desenvolvimento desktop C#**
   
-  <p>
-    <strong>Pronto para integrar ao seu portfólio de desenvolvedor!</strong>
-  </p>
   
 </div>
